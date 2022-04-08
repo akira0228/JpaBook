@@ -1,6 +1,6 @@
 package com.jpabook.kernel
 
-import com.jpabook.entity.UserState
+import com.jpabook.domain.UserState
 import javax.persistence.AttributeConverter
 import javax.persistence.Converter
 

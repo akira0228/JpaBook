@@ -1,4 +1,4 @@
-package com.jpabook.entity
+package com.jpabook.domain
 
 import org.springframework.data.annotation.CreatedDate
 import org.springframework.data.annotation.LastModifiedDate

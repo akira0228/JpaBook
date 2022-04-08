@@ -1,4 +1,4 @@
-package com.jpabook.entity
+package com.jpabook.domain
 
 enum class UserState(val value: Int) {
     BASIC(0),
